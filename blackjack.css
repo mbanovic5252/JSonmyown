@@ -44,3 +44,6 @@ font-style: italic;
 #div2{
     display: inline-block;
 }
+#diveverything{
+    display: none;
+}
